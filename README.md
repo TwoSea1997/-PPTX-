@@ -13,7 +13,7 @@
    浏览器安装[Tampermonkey](https://www.tampermonkey.net/)扩展
 
 2. ​**添加脚本**  
-   [点击此处](智慧树网站PPTX资源直链下载-0.2.2.user.js)安装脚本
+   [点击此处](extension://iikmkjmpaadaobahmlepeloendndfphd/ask.html?aid=82bada85-b1a7-4923-9abf-47ac7aa8309a)安装脚本
 
 3. ​**使用步骤**  
    ```bash
