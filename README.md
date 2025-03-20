@@ -13,7 +13,7 @@
    浏览器安装[Tampermonkey](https://www.tampermonkey.net/)扩展
 
 2. ​**添加脚本**  
-   [点击此处]()安装脚本
+   [点击此处](https://www.tampermonkey.net/script_installation.php#url=https://github.com/TwoSea1997/-PPTX-/raw/refs/heads/main/%E6%99%BA%E6%85%A7%E6%A0%91%E7%BD%91%E7%AB%99PPTX%E8%B5%84%E6%BA%90%E7%9B%B4%E9%93%BE%E4%B8%8B%E8%BD%BD-0.2.2.user.js)安装脚本
 
 3. ​**使用步骤**  
    ```bash
